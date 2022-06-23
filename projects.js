@@ -31,7 +31,7 @@ const features = [
 function CreateCourse() {
   for (let i = 0; i < features.length; i += 1) {
     projectsSection.innerHTML += `  <div class="featured-card">
-      <img src="/img/${features[i].image}.png" alt="images" class="featured-image" >
+      <img src="img/${features[i].image}.png" alt="images" class="featured-image" >
      
       <div class="abc">
          <h1 class="xyz">${features[i].name}</h1>
