@@ -1,8 +1,17 @@
 # Capstone-Project
-Capstone projects showcasing the idea of a web development agency
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
+# Project Overview
+This Capstone projects is about showcasing the idea of a web development agency where people can come to for website to be created for them and also those who want to learn web development can enroll in the bootcamp
+
+![screenshot](img/page.png)
+![screenshot](img/page1.png)
+![screenshot](img/page2.png)
+
+
 
 Built With the following stack
-HTML CSS Linters
+HTML CSS Js Linters
 Javascript
 Getting Started
 
@@ -26,7 +35,7 @@ npm init -y or (npm install --save-dev hint@6.x)
 
 npm start
 
-[Live Demo Link]()
+[Live Demo Link](https://hislordshipprof.github.io/Capstone-Project/)
 
 ### 4. Builds for publish
 
